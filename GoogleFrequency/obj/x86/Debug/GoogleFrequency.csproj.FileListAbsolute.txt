@@ -1,0 +1,15 @@
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\obj\x86\Debug\GoogleFrequency.Properties.Resources.resources
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\bin\Debug\GoogleFrequency.exe
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\bin\Debug\GoogleFrequency.pdb
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\bin\Debug\Castle.Core.dll
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\bin\Debug\WebDriver.dll
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\bin\Debug\WebDriver.Support.dll
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\bin\Debug\WebDriver.pdb
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\bin\Debug\WebDriver.xml
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\bin\Debug\WebDriver.Support.pdb
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\bin\Debug\WebDriver.Support.xml
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\obj\x86\Debug\GoogleFrequency.Form1.resources
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\obj\x86\Debug\GoogleFrequency.exe
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\obj\x86\Debug\GoogleFrequency.pdb
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\obj\x86\Debug\GoogleFrequency.csprojResolveAssemblyReference.cache
+D:\MasMas\Projects\GoogleFrequency\GoogleFrequency\obj\x86\Debug\GoogleFrequency.csproj.GenerateResource.Cache
